@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 600,
+  "experience": 1,
+  "ingredient": {
+    "item": "minecraft:emerald_ore"
+  },
+  "result": "minecraft:emerald"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 600,
+  "experience": 1,
+  "ingredient": {
+    "item": "minecraft:nether_gold_ore"
+  },
+  "result": "minecraft:gold_ingot"
+}
